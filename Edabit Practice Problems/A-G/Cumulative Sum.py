@@ -1,3 +1,8 @@
+# simple program that with a function that takes one parameter
+# and using a while loop cumilatively appends the sum of the next number
+# and will print list and append the cumilative sum at the end
+# of the list
+
 def cumulative_sum(lst):
     new_lst = []
     i = 1
